@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: darkgray;
+	color: yellow;
+	font-family: sans-serif;
+}
+main {
+	padding: 3em 2em 2em 2em;
+}
+h1 {
+	margin: 0 0 1em 0;
+}
+p {
+	margin: 0 0 1em 0;
+}
